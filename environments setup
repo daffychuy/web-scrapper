@@ -1,0 +1,14 @@
+# Prereq
+	- python3
+	- pip
+	- virtualenv
+	- python3-bs4 (Beautiful Soup)
+
+# Pre-commands
+	- sudo apt install python3-pip
+	- sudo pip3 install virtualenv
+	- virtualenv <env-name>
+	- sudo apt install python3-bs4
+
+# Activating environment
+	- source /<env-name>/bin/activate
